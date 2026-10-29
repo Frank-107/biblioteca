@@ -20,5 +20,5 @@ public class Libro {
 
     private String titulo;
 
-    private int ejeplaresDisponibles;
+    private int ejemplaresDisponibles;
 }
